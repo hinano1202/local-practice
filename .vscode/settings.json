@@ -1,0 +1,3 @@
+{
+    "phpcs.standard": "${workspaceRoot}/setting/phpcs_laravel.xml"
+}
